@@ -1,4 +1,4 @@
-package org.example.rocket;
+package org.example.planet;
 
 public class PlanetStatus {
     private final Planets planet;

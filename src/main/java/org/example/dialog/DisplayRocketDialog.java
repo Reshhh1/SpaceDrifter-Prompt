@@ -1,12 +1,11 @@
 package org.example.dialog;
 
 import org.example.helper.PrintHelper;
-import org.example.rocket.Planets;
+import org.example.planet.Planets;
 import org.example.rocket.Rocket;
 import org.example.rocket.SpaceTravelSimulator;
 import org.example.storage.RocketStorage;
 
-import java.sql.SQLOutput;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Arrays;
